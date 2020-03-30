@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185150031396",
+    "firebase_url": "https://queueless-6d472.firebaseio.com",
+    "project_id": "queueless-6d472",
+    "storage_bucket": "queueless-6d472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185150031396:android:72343ba320d209d57b3ab1",
+        "android_client_info": {
+          "package_name": "com.achu.queueless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185150031396-m7befg2d27hd6cneqtus4bple0omrt3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.achu.queueless",
+            "certificate_hash": "90ecb43269117dd1cab8eef4422f0b6fa3b7e53f"
+          }
+        },
+        {
+          "client_id": "185150031396-edbrdrempuo0svsd2tvl9d6b111ujjc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU194TSZe-2dpkDH4DZHvEoaEJJmM9DwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185150031396-edbrdrempuo0svsd2tvl9d6b111ujjc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
