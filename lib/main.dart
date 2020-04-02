@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Demo1',
       theme: ThemeData(
         // This is the theme of your application.
         //
