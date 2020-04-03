@@ -1,0 +1,17 @@
+name: user_repository
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^0.13.0+1
+  rxdart: ^0.23.0
+  equatable: ^1.0.0
+  firebase_core: ^0.4.3+3
+  firebase_auth: ^0.15.5+3
+  google_sign_in: ^4.0.1+1
+  

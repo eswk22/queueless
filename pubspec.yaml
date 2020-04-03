@@ -28,10 +28,17 @@ dependencies:
   flutter_bloc: ^3.2.0
   cloud_firestore: ^0.13.4+2
   firebase_auth: ^0.15.5+3
-  equatable: ^0.2.0
+  equatable: ^1.0.0
   meta: ^1.1.6
   font_awesome_flutter: ^8.4.0
   google_sign_in: ^4.0.1+1
+
+  org_repository:
+    path: org_repository  
+  user_repository:
+    path: user_repository
+  queue_repository:
+    path: queue_repository
 
 dev_dependencies:
   flutter_test:
